@@ -1,0 +1,20 @@
+.btn-cancel-tranc {
+    background-color: #FF0742;
+    border: none;
+}
+
+.btn-approve-tranc {
+    margin-left: 10px;
+    background-color: #0ACF83;
+    border: none;
+}
+
+.border-tranc {
+    border: 1px solid #828282;
+    font-weight: bold;
+}
+
+.center {
+    display: block;
+    margin: 0 auto;
+}

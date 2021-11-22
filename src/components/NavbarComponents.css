@@ -1,0 +1,107 @@
+.btn-login, .btn-register {
+    width: 100px;
+    height: 20px;
+    border: none;
+    background: #433434;
+    border-radius: 5px;
+    color: #FFFFFF;
+    padding-bottom: 25px;
+    margin-left: 10px;
+    font-size: 14px;
+}
+
+.btn-login:hover, .btn-register:hover {
+    background: #FFC700;
+    border: 2px solid #FFFFFF;
+    color: #433434;
+}
+
+.btn-islogin {
+    background-color: #FFC700;
+    padding-bottom: 30px;
+    border: none;
+}
+
+.btn-islogin:hover {
+    background-color: #FFC700;
+    border: 0;
+}
+
+.btn-islogin:focus {
+    background-color: #FFC700;
+    border: none;
+    outline: 0;
+}
+
+.btn-islogin:active {
+    background-color: #FFC700;
+    outline: 0;
+    border: none;
+}
+
+.title-header{
+    text-decoration: none;
+    color: black;
+}
+
+.title-header:hover{
+    color: black;
+}
+
+.dropdown-profile, .dropdown-profile:hover, .dropdown-profile:focus, .dropdown-profile:active {
+   background-color: #FFC700;
+   border: 0;
+   outline: none;
+   box-shadow: none;
+}
+
+.icon {
+    height: 20px;
+    width: 20px;
+    margin-right: 5px;
+}
+
+.notif-order {
+    background-color: red;
+    font-weight: bold;
+    height: 20px;
+    width: 20px;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+    color: white;
+    text-decoration: none;
+    top: 20px;
+}
+
+.form-modal {
+    margin: 15px 0;
+}
+
+.customModal {
+    width: 30%;
+}
+
+.submit-register {
+    background-color: #433434;
+    font-weight: bold;
+    color: white;
+    width: 50%;
+    margin: 20px auto;
+    display: block;
+}
+
+.customTitle {
+    color: #FFC700;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.customForm {
+    background-color: #D2D2D240;
+}
+
+/* .dropdown-profile:hover {
+    background-color: #FFC700;
+    border: 0;
+ } */

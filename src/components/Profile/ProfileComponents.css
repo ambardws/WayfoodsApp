@@ -1,0 +1,27 @@
+.btn-edit-profile {
+    background-color: #433434;
+    font-weight: bold;
+    text-align: center;
+    border: none;
+    width: 100%;
+    display: block;
+    margin: 10px auto 0 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.customTitleProfile{
+    color: #433434;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.select-location-edit{
+    background-color: #433434;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    margin-top: 15px;
+    width: 100%;
+    height: 40px;
+}

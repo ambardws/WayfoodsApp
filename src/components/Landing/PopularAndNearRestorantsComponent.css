@@ -1,0 +1,19 @@
+.name-restaurant{
+    display: inline-block;
+    font-weight: bold;
+    padding: 5px;
+    margin-left: 5px;
+}
+
+.name-near-restaurant {
+    font-weight: bold;
+}
+
+.link-menu-order {
+    text-decoration: none;
+    color: black;
+}
+
+.link-menu-order:hover {
+    color: black;
+}
